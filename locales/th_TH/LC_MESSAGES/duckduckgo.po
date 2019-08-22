@@ -2778,6 +2778,14 @@ msgstr ""
 msgid "Privacy Settings"
 msgstr "ตั้งค่าความเป็นส่วนตัว"
 
+msgctxt "SERP footer content"
+msgid "Privacy in Your Inbox"
+msgstr ""
+
+msgctxt "showcase_newsletter"
+msgid "Privacy in Your Inbox"
+msgstr ""
+
 msgid "Privacy, simplified."
 msgstr "ความเป็นส่วนตัว, ง่ายขึ้น"
 
@@ -3552,6 +3560,14 @@ msgstr "เริ่มต้นค้นหา"
 
 msgctxt "SERP footer content"
 msgid "Stay Informed"
+msgstr ""
+
+msgctxt "SERP footer content"
+msgid "Stay protected and informed with our privacy newsletters."
+msgstr ""
+
+msgctxt "showcase_newsletter"
+msgid "Stay protected and informed with our privacy newsletters."
 msgstr ""
 
 #. Instant Answer tab name - eg. https://duckduckgo.com/?q=Energy+Transfer+Equity&ia=stock

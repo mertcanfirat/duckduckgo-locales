@@ -2809,6 +2809,14 @@ msgstr "ଗୋପନୀୟତାର ନିୟମାବଳୀ"
 msgid "Privacy Settings"
 msgstr "ଗୋପନୀୟତା ସେଟିଙ୍ଗ"
 
+msgctxt "SERP footer content"
+msgid "Privacy in Your Inbox"
+msgstr ""
+
+msgctxt "showcase_newsletter"
+msgid "Privacy in Your Inbox"
+msgstr ""
+
 msgid "Privacy, simplified."
 msgstr "ଗୋପନୀୟତା, ସହଜ ହେଲା"
 
@@ -3598,6 +3606,14 @@ msgstr "ଖୋଜିବା ଆରମ୍ଭ କରନ୍ତୁ!"
 msgctxt "SERP footer content"
 msgid "Stay Informed"
 msgstr "ଆପଣଙ୍କୁ ସୂଚନା ମିଳୁଥାଉ"
+
+msgctxt "SERP footer content"
+msgid "Stay protected and informed with our privacy newsletters."
+msgstr ""
+
+msgctxt "showcase_newsletter"
+msgid "Stay protected and informed with our privacy newsletters."
+msgstr ""
 
 #. Instant Answer tab name - eg. https://duckduckgo.com/?q=Energy+Transfer+Equity&ia=stock
 msgid "Stock"
