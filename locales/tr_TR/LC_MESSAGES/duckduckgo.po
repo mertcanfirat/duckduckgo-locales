@@ -452,7 +452,7 @@ msgstr "Mevcut En İyi"
 
 #. In the right menu panel of the homepage.
 msgid "Beta"
-msgstr ""
+msgstr "Beta Sürüm"
 
 msgctxt "video-duration"
 msgid "Between 4 and 20 minutes"
@@ -483,7 +483,7 @@ msgid "Blocks trackers on websites you visit"
 msgstr ""
 
 msgid "Blog"
-msgstr ""
+msgstr "Blog"
 
 #. The color blue
 msgid "Blue"
@@ -817,10 +817,10 @@ msgid "Click the Duck icon at the top of your browser to search!"
 msgstr "Arama yapmak için tarayıcınızın üst bölümden Ördek işaretine tıklayın"
 
 msgid "Click the Expand Icon."
-msgstr ""
+msgstr "Genişlet simgesine tıklayın"
 
 msgid "Click the Search Engine Icon in the Address Bar."
-msgstr ""
+msgstr "Adres Çubuğundaki Arama Motoru Simgesine Tıklayın"
 
 msgid "Click the arrow to the right of the %shome icon%s"
 msgstr "%sAna Sayfa%s tuşunun sağındaki ok işaretine tıklayın"
@@ -3299,7 +3299,7 @@ msgstr "%sTercihler%s'i seç."
 
 msgctxt "mobile homepage banner"
 msgid "Select %sSearch Engine%s"
-msgstr ""
+msgstr "%sArama Motoru%s seç"
 
 msgctxt "mobile homepage banner"
 msgid "Select %sSearch engine%s, then %sOthers...%s"
